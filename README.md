@@ -1,2 +1,2 @@
 # SupplyMission
-https://github.com/ayushmaan786/C23-Supply-mission-master2
+https://ayushmaan786.github.io/C23-Supply-mission-master2/
